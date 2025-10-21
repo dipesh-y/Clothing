@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import "../Productitem/style.css"
+import "../ProductItem/style.css"
 import {Link} from 'react-router-dom';
 import Rating from '@mui/material/Rating';
 import Box from '@mui/material/Box';
